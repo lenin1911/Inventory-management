@@ -16,12 +16,14 @@ Language: Java
 Concepts: OOP, Collections, Exception Handling, File Handling
 Interface: Console / Command Line
 Project Structure
+
 InventoryManagement/
 ├── src/
 │   ├── Product.java
 │   ├── Inventory.java
 │   └── Main.java
 └── README.md
+
 How It Works
 
 The system maintains a collection of products, where each product contains information such as:
